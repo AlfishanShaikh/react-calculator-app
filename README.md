@@ -78,7 +78,7 @@ react-calculator-app/
 
 ## 📱 Screenshots
 
-> ![Screenshot](https://github.com/AlfishanShaikh/js-project-docs/blob/a965c85ef07ee363f8f35fa009f08750c8fb07c9/banner.png)
+> ![Screenshot](https://github.com/AlfishanShaikh/react-calculator-app/blob/3974fa13d0fcbd736e545aee284066946aa95c09/src/assets/banner.png)
 
 
 ## 🤝 Contributing
